@@ -1,9 +1,9 @@
-import rightVectorStyles from '../assets/styles/RightVector.module.css';
+import styles from '../assets/styles/RightVector.module.css';
 
 const RightVector = () => {
   return (
     <svg
-      className={rightVectorStyles.rightVector}
+      className={styles.rightVector}
       viewBox='0 0 274 298'
       fill='none'
       xmlns='http://www.w3.org/2000/svg'

@@ -1,0 +1,25 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 77px;
+}
+
+.headerItems {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 90px;
+  width: min(100vw, 1440px);
+}
+
+.lang {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.lang h2 {
+  font-family: 'Ubuntu';
+  font-size: 22px;
+  font-weight: 400;
+  margin-right: 38px;
+}
