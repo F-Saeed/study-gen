@@ -1,0 +1,7 @@
+.leftVector {
+  height: 100vh;
+  position: absolute;
+  left: 0;
+  top: 0px;
+  z-index: -5;
+}
