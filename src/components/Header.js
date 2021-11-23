@@ -4,13 +4,11 @@ import Logo from './Logo';
 
 const Header = () => {
   return (
-    <div className={styles.header}>
-      <div className={styles.headerItems}>
-        <Logo />
-        <div className={styles.lang}>
-          <h2>Eng</h2>
-          <DropDownVector />
-        </div>
+    <div className={[styles.header, 'center'].join(' ')}>
+      <Logo />
+      <div className={styles.lang}>
+        <h2>Eng</h2>
+        <DropDownVector />
       </div>
     </div>
   );

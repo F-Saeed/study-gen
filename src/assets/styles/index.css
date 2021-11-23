@@ -1,1 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;700&display=swap');
+
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+.center {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 90px;
+  width: min(100vw, 1440px);
+}

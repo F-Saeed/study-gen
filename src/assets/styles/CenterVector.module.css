@@ -1,5 +1,6 @@
 .centerVector {
   position: absolute;
   right: 30%;
-  bottom: 5%;
+  bottom: 3%;
+  z-index: -1;
 }
