@@ -1,4 +1,4 @@
-import styles from '../assets/styles/RightVector.module.css';
+import styles from '../../assets/styles/RightVector.module.css';
 
 const RightVector = () => {
   return (

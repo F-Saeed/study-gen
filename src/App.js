@@ -1,7 +1,7 @@
 import appStyles from './assets/styles/App.module.css';
 import Main from './components/Main';
-import LeftVector from './components/LeftVector';
-import RightVector from './components/RightVector';
+import LeftVector from './components/vector-components/LeftVector';
+import RightVector from './components/vector-components/RightVector';
 
 function App() {
   return (

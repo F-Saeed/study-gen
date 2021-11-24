@@ -1,4 +1,4 @@
-import styles from '../assets/styles/LeftVector.module.css';
+import styles from '../../assets/styles/LeftVector.module.css';
 
 const LeftVector = () => {
   return (

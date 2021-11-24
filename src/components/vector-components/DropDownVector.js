@@ -1,4 +1,4 @@
-import styles from '../assets/styles/DropDownVector.module.css';
+import styles from '../../assets/styles/DropDownVector.module.css';
 
 const DropDownVector = () => {
   return (

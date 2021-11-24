@@ -1,5 +1,5 @@
 import styles from '../assets/styles/Main.module.css';
-import CenterVector from './CenterVector';
+import CenterVector from './vector-components/CenterVector';
 import Content from './Content';
 import Header from './Header';
 

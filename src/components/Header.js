@@ -1,6 +1,6 @@
 import styles from '../assets/styles/Header.module.css';
-import DropDownVector from './DropDownVector';
-import Logo from './Logo';
+import DropDownVector from './vector-components/DropDownVector';
+import Logo from './vector-components/Logo';
 
 const Header = () => {
   return (

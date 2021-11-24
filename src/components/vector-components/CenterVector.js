@@ -1,4 +1,4 @@
-import styles from '../assets/styles/CenterVector.module.css';
+import styles from '../../assets/styles/CenterVector.module.css';
 
 const CenterVector = () => {
   return (

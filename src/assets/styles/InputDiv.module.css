@@ -1,0 +1,14 @@
+.inputDiv {
+  position: relative;
+}
+
+.inputDiv input {
+  border: 1px solid rgba(20, 30, 80, 0.3);
+  border-radius: 6px;
+  color: rgba(20, 30, 80, 0.2);
+  font-weight: 400;
+  font-size: 14px;
+  padding: 6.2px 0;
+  padding-left: 30px;
+  width: 250px;
+}

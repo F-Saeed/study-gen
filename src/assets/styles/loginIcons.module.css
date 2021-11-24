@@ -1,0 +1,13 @@
+.vector1 {
+  position: absolute;
+  top: 9px;
+  left: 6px;
+  z-index: 1;
+}
+
+.vector2 {
+  position: absolute;
+  top: 7px;
+  right: 7px;
+  z-index: 1;
+}
